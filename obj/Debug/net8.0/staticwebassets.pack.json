@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets/MyApp.styles.css"
     },
     {
+      "Id": "/Users/jeongmugyeong/DotNetExample/MyApp/wwwroot/.nojekyll",
+      "PackagePath": "staticwebassets/.nojekyll"
+    },
+    {
+      "Id": "/Users/jeongmugyeong/DotNetExample/MyApp/wwwroot/404.html",
+      "PackagePath": "staticwebassets/404.html"
+    },
+    {
       "Id": "/Users/jeongmugyeong/DotNetExample/MyApp/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
