@@ -13,11 +13,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5bd3236286f4dfda6ed767ad4bc8ec60834904b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66c1a3405806a6c9c5c2cda3b48a019ee3063c50")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/MuGyeongJeong/github.io.git")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
 
