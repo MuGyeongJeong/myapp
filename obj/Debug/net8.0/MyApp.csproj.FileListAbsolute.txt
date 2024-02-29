@@ -1029,3 +1029,4 @@
 /Users/jeongmugyeong/DotNetExample/MyApp/obj/Debug/net8.0/refint/MyApp.dll
 /Users/jeongmugyeong/DotNetExample/MyApp/obj/Debug/net8.0/MyApp.pdb
 /Users/jeongmugyeong/DotNetExample/MyApp/obj/Debug/net8.0/ref/MyApp.dll
+/Users/jeongmugyeong/DotNetExample/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
